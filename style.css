@@ -1,0 +1,581 @@
+body {
+  margin: 0;
+  margin-bottom: 25px;
+  padding: 0;
+  font-family: "Arial", "Helvetica", "Geneva", "Verdana";
+  font-size: 14px;
+  background-color: #FFF;
+  color: #333;
+}
+
+div#title {
+  margin-bottom: 25px;
+}
+
+#title h1 { 
+  font-size: 24;
+  margin: 3;
+}
+#title h2 {
+  margin: 3;
+  color: #555;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+#page {
+  background-color: #FFFFFF;
+  border: solid black 1px;
+  border-top: none;
+  width: 890px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content {
+  float: left;
+  background-color: white;
+  border-top: none;
+  padding: 25px;
+  width: auto;
+}
+
+#header {
+  text-decoration: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 890px;
+}
+
+img#logo { 
+  border: solid black 1px;
+}
+
+pre { 
+  background-color: #CCF;
+  border: dashed grey 1px;
+  width: 80%;
+  padding: 5px;
+}
+
+
+#linkbar { 
+  text-align: center;
+  font-size: 11pt;
+  font-weight: normal;
+  padding: 3px;
+}
+
+#linkbar a { }
+#linkbar a:hover { text-decoration: underline; }
+
+#sidebar {
+  float: right;
+  width: 250px;
+  height: 1024px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+#sidebar dl { 
+  font-size: 9pt;
+  padding-left: 10px;
+  padding-right: 18px;
+}
+
+#sidebar dt { 
+  float: right;
+  clear: right;
+  font-weight: bold;
+  color: #333;
+}
+#sidebar dt:after {
+  content: " "; 
+}
+
+#sidebar dd { 
+  text-align: left;
+  margin: 5px;
+  border-bottom: dashed #CCC 1px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
+dt { 
+  font-weight: bold;
+}
+
+
+
+#about h3 {
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+#about-content {
+  background-color: #ffd;
+  border: 1px solid #fc0;
+  margin-left: -11px;
+}
+#about-content table {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 11px;
+  border-collapse: collapse;
+}
+#about-content td {
+  padding: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+#about-content td.name  {color: #555}
+#about-content td.value {color: #000}
+
+#about-content.failure {
+  background-color: #fcc;
+  border: 1px solid #f00;
+}
+#about-content.failure p {
+  margin: 0;
+  padding: 10px;
+}
+
+
+ul.workshoplist { 
+  padding-left: 8px;
+  margin-left: 0px;
+  list-style-image: none;
+  list-style-type: none;
+}
+ul.workshoplist li { 
+  margin: 0px;
+  padding-bottom: 10px;
+}
+
+#sidebar ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+#sidebar ul h3 {
+  margin-top: 25px;
+  font-size: 14px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #ccc;
+}
+#sidebar li {
+  list-style-type: none;
+}
+#sidebar ul.links li {
+  padding-left: 15px;
+  margin-bottom: 5px;
+}
+
+
+#footer table.foo { 
+  width: 100%
+}
+
+#footer table.foo td { 
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  list-style-type: none;
+  font-size: 9pt;
+  vertical-align: middle;
+}
+
+#footer {
+  font-size: 7pt;
+  text-align: center;
+  color: #999;
+  clear: both;
+}
+
+#copyright { 
+  font-size: 9pt;
+  text-align: center;
+  color: #999;
+  clear: both;
+}
+
+
+
+h3 { 
+  margin-top: 20px;
+}
+
+a { 
+  color: #33D;  
+  text-decoration: underline;
+}
+
+a:visited { 
+  color: #66D;  
+  text-decoration: underline;
+}
+
+a:hover { 
+  color: #33D;  
+  text-decoration: none;
+}
+
+
+div.committee h4 { 
+  font-size: 8pt;
+  padding-left: 5px;
+  width: 590px;
+  font-style: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+div.committee dl { 
+  font-size: 10pt;
+  padding-left: 15px;
+  width: 590px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+div.committee dt { 
+  float: left;
+  clear: left;
+  padding: 0 10px 0 0;
+  margin: 0 0 0 0;
+}
+
+div.committee dd { 
+  text-align: right;
+  border-bottom: dashed #BBB 1px;
+  margin-bottom: 5px;
+}
+
+div.committee h3 { 
+  margin-top: 30px;
+}
+
+img.photo { 
+  border: solid black 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+div.titleimage { 
+  text-align: center;
+}
+img.titleimage { 
+  border: solid black 1px;
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
+div.caption { 
+  font-size: 7pt;
+  text-align: right;
+}
+
+img.icon { 
+  border: 0px;
+  vertical-align:middle;
+}
+
+.deadline a, a:link, a:visited {
+  text-decoration: underline;
+  color: #000;
+}
+
+.deadline a, a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.rfloat { 
+  text-align: right;
+  font-size: 9pt;
+  font-weight: normal;
+  float: right;
+  width:300px;
+}
+
+
+dl.programday { 
+  font-size: 10pt;
+  margin-bottom: 40px;
+}
+
+dl.programday dt { 
+  margin: 0px;
+  float: left;
+  clear: left;
+  font-weight: bold;
+  color: #000;
+}
+
+dl.programday h3 { 
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+dl.programday h4 { 
+  font-size: 12pt;
+  border-bottom: dashed gray 1px;
+  margin-bottom: 15px;
+}
+
+dl.programday h5 { 
+  float: right;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-right: 5px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+dl.programday span.chair { 
+  color: #666;
+  font-size: 10pt;
+  font-weight: bold;
+  font-style: italic;
+}
+
+dl.programday dd { 
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  margin-left: 130px;
+  margin-bottom: 30px;
+}
+
+table.schedule { 
+  border: solid black 1px;
+  margin: 0px;
+  padding: 0px;
+  border-collapse: collapse;
+  width: 98%;
+  font-size: 9pt;
+}
+
+table.schedule#legend { 
+  width:60%;
+}
+
+table.schedule#legend td { 
+  padding-left: 7px;
+  padding-right: 7px;
+  white-space: nowrap;  
+}
+
+table.schedule#legend td.divider { 
+  padding: 2px;
+}
+
+
+table.schedule td { 
+  border: solid black 1px;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  color:#000;
+}
+
+table.schedule td.time { 
+  font-weight: bold;
+  background-color: #CCC;
+}
+
+table.schedule td.day { 
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #CCC;
+}
+
+table.schedule td.divider { 
+  border: solid black 1px;;
+  padding: 2px; 
+  background-color: #DDD;
+}
+
+
+table.schedule td.free { 
+  border: none;
+  background-color: #EEE;
+}
+
+table.schedule td.workshop { 
+  background-color: #CCE;
+}
+
+table.schedule td.tutorial { 
+  background-color: #CEC;
+}
+
+table.schedule td.special { 
+  background-color: #ECC;
+}
+
+table.schedule td.papers { 
+  background-color: #EEC;
+}
+
+table.schedule td.social {
+  background-color: #BDD;
+}
+
+table.schedule td.break {
+  background-color: #EEF;
+  color: #555;
+}
+
+
+
+div.paper { 
+  padding-left: 15px;
+}
+
+div.paper span.title { 
+  font-weight: bold;
+  color: #333;
+}
+
+div.paper span.title a { 
+  color: #333;
+}
+
+div.paper span.authors { 
+  font-style: italic;
+  color: #666;
+}
+
+
+
+h3.prices { 
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+h4.prices { 
+  font-size: 10pt;
+  font-style: italic;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+table.prices { 
+  border: solid black 1px;
+  border-collapse: collapse;
+  font-size: 12px;
+  width: 580px;
+}
+
+table.prices td { 
+  border: solid black 1px;
+  white-space: nowrap;
+  text-align: center;
+  color: black; 
+}
+
+
+table.prices td.header { 
+  font-weight: bold; 
+  background: #CCC;
+}
+
+table.prices td.ah { 
+  font-weight: bold; 
+  background: #99E;
+}
+
+table.prices td.lh { 
+  font-weight: bold; 
+  background: #E99;
+}
+
+table.prices td.am   { background: #CCE; }
+table.prices td.anm  { background: #CCE; }
+table.prices td.lm   { background: #ECC; }
+table.prices td.lnm  { background: #ECC; }
+
+
+dl.prices { 
+  font-size: 10pt;
+  padding-left: 15px;
+  width: 520px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+dl.prices dt { 
+  float: left;
+  clear: left;
+  padding: 0 10px 0 0;
+  margin: 0 0 0 0;
+}
+
+dl.prices dd { 
+  text-align: right;
+  border-bottom: dashed #BBB 1px;
+  margin-bottom: 5px;
+}
+
+div.alert { 
+  font-weight: bold; 
+  background: #ECC;  
+  border: solid #E33 1px;
+  padding:5px;
+}
+
+div.alert table td { 
+  font-weight: bold;
+}
+
+ol.posterlist li { 
+  margin-bottom: 15px;
+}
+
+
+div.keynote { 
+  width: 600px;
+}
+
+div.keynote h1 { 
+  margin: 0px;
+  padding: 0px;
+}
+div.keynote h2 { 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px;
+}
+div.keynote h3 { 
+  margin-top: 10px;
+  font-size: 11pt;
+  padding: 0px;
+}
+div.keynote h4 { 
+  color: #666;
+  margin: 0px;
+  margin-top: 5px;
+  padding: 0px;
+}
+
+div.footnote { 
+  font-size: 9pt;
+}
+
+
+table.travelform { 
+  border: solid gray 1px;
+  margin: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 0px;
+}

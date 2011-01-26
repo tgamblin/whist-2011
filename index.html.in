@@ -1,0 +1,39 @@
+<div id="title">
+<h2>First International Workshop on</h2>
+<h1>High-performance Infrastructure for Scalable Tools</h1>
+<h1>WHIST 2011</h1>
+<h2>Held as part of ICS 2011, Tucson, May 31-June 4, 2011</h2>
+</div>
+
+<p>
+Today's petascale supercomputers contain over 100,000 processor cores, and thread counts on exascale systems are expected to exceed 100 million. Increasingly complex multicore and accelerator node-architectures fuel the trend towards massive concurrency, and new, hierarchical parallel programming models will be necessary to take full advantage of future machines.  With increased node, system, and application complexity, scalable tools will be critical for diagnosing the root causes of correctness and performance problems.
+<p>
+To diagnose problems at the extreme scale, tools themselves are becoming more complex. Tools will require sophisticated infrastructure to monitor, measure, analyze, and present the causes of an execution's anomalies.  In many cases, tools will combine online and offline analysis.  They may use sophisticated modeling and statistical analysis techniques. To manage this complexity, there is a need both for abstractions that simplify tool design and for infrastructure that is reusable and extensible.
+
+<h2>Submissions</h2>
+We solicit papers on all aspects of scalable tool abstractions and infrastructure, including (but not limited to):
+
+<ul>
+<li>Generic, reusable tool-infrastructure components
+<li>Tool-component interoperability
+<li>Tool-runtime design, including
+  <ul>
+  <li>Scalable data structures and data representation for tool runtimes
+  <li>Scalable tool communication infrastructure
+  <li>Tool and operating system interoperability
+  </ul>
+<li>Scalable online and offline analysis techniques, including 
+  <ul>
+  <li>Techniques for managing large amounts of information
+  <li>Low-overhead online parallel data analysis techniques
+  </ul>
+<li>Monitoring, measurement and analysis approaches for novel parallel programming models
+  <ul>
+  <li>Tool support for multithreading, shared-memory, and hierarchical parallelism, including interaction with language ntime and operating systems
+  <li>Measurement and attribution techniques for new programming paradigms
+  </ul>
+<li>Scalable presentation of results
+</ul>
+
+<h2>Special Journal Issue</h2>
+All papers from the workshop will be made available online, and selected papers will be published in a special journal issue.  Details TBD.

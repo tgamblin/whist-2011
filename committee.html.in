@@ -1,0 +1,68 @@
+<div class="committee"> 
+
+<h3>Program Chairs</h3> 
+    <dl> 
+        <dt><a href="http://people.llnl.gov/gamblin2">Todd Gamblin</a></dt> 
+        <dd>Lawrence Livermore National Laboratory</dd> 
+ 
+        <dt><a href="http://www.cs.rice.edu/~nrt2/">Nathan Tallent</a></dt> 
+        <dd>Rice University</dd> 
+    </dl>
+
+
+
+
+<h3>Program Committee</h3> 
+    <dl> 
+        <dt>Dorian Arnold</dt> 
+        <dd>University of New Mexico</dd> 
+
+        <dt>Luiz DeRose</dt> 
+        <dd>Cray</dd> 
+
+        <dt>Rob Fowler</dt> 
+        <dd>Renaissance Computing Institute, University of North Carolina</dd> 
+
+        <dt>Karl Fuerlinger</dt> 
+        <dd>Ludwig-Maximilians-Universität München</dd> 
+
+        <dt>Kevin Huck</dt> 
+        <dd>Barcelona Supercomputing Center</dd> 
+
+        <dt>Chee-Wai Lee</dt> 
+        <dd>University of Oregon</dd> 
+
+        <dt>Allen Malony</dt> 
+        <dd>University of Oregon</dd> 
+
+        <dt>Bernd Mohr</dt> 
+        <dd>Jülich Supercomputing Center</dd> 
+
+        <dt>Tipp Modeley</dt> 
+        <dd>Google</dd> 
+
+        <dt>Phil Mucci</dt> 
+        <dd>Samara Technologies</dd> 
+
+        <dt>Boyana Norris</dt> 
+        <dd>Argonne National Laboratory</dd> 
+
+        <dt>Ramesh Peri</dt> 
+        <dd>Intel</dd> 
+
+        <dt>Phillip Roth</dt> 
+        <dd>Oak Ridge National Laboratory</dd> 
+
+        <dt>Barry Rountree</dt> 
+        <dd>Lawrence Livermore National Laboratory</dd> 
+
+        <dt>Martin Schulz</dt>
+        <dd>Lawrence Livermore National Laboratory</dd>
+
+        <dt>Sameer Shende</dt> 
+        <dd>ParaTools</dd> 
+
+        <dt>Felix Wolf</dt> 
+        <dd>Jülich Supercomputing Center, University of Aachen</dd> 
+     </dl> 
+</div> 
