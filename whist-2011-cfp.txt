@@ -1,0 +1,103 @@
+===============================================================================
+                           First International
+        Workshop on High-performance Infrastructure for Scalable Tools
+                              (WHIST 2011)
+
+                           Held as part of the
+          25th International Conference on Supercomputing (ICS 2011)
+                      Tucson, Arizona, June 4, 2011
+
+                      http://www.whist-workshop.org
+===============================================================================
+
+CALL FOR PAPERS
+
+Today's petascale supercomputers contain over 100,000 processor cores, 
+and thread counts on exascale systems are expected to exceed 100 million.
+Increasingly complex multicore and accelerator node-architectures fuel 
+the trend towards massive concurrency, and new, hierarchical parallel 
+programming models will be necessary to take full advantage of future 
+machines. With increased node, system, and application complexity, scalable
+tools will be critical for diagnosing the root causes of correctness and 
+performance problems.
+
+To diagnose problems at the extreme scale, tools themselves are becoming more
+complex. Tools will require sophisticated infrastructure to monitor, measure,
+analyze, and present the causes of an execution's anomalies.  In many cases,
+tools will combine online and offline analysis.  They may use sophisticated
+modeling and statistical analysis techniques. To manage this complexity, there
+is a need both for abstractions that simplify tool design and for 
+infrastructure that is reusable and extensible.
+
+
+SUBMISSIONS
+
+We solicit papers on all aspects of scalable tool abstractions and
+infrastructure, including (but not limited to):
+
+  * Generic, reusable tool-infrastructure components
+  * Tool-component interoperability
+  * Tool-runtime design, including
+    - Scalable data structures and data representation for tool runtimes
+    - Scalable tool communication infrastructure
+    - Tool and operating system interoperability
+  * Scalable online and offline analysis techniques, including 
+    - Techniques for managing large amounts of information
+    - Low-overhead online parallel data analysis techniques
+  * Monitoring, measurement and analysis approaches for novel parallel
+    programming models
+    - Tool support for multithreading, shared-memory, and hierarchical 
+      parallelism, including interaction with language ntime and operating
+      systems
+    - Measurement and attribution techniques for new programming paradigms
+  * Scalable presentation of results
+
+
+SPECIAL JOURNAL ISSUE
+
+All papers from the workshop will be made available online, and selected
+papers will be published in a special journal issue.  Details TBD.
+
+
+IMPORTANT DATES
+
+Full papers                  April 15, 2010, 11:59 PDT
+Reviews due                     May 2, 2010
+Notification                    May 6, 2010
+ICS Conference          May 31-June 4, 2010
+
+
+PROGRAM CHAIRS
+
+Todd Gamblin, Lawrence Livermore National Laboratory
+Nathan Tallent, Rice University
+
+
+PROGRAM COMMITTEE
+
+Dorian Arnold, University of New Mexico
+Luiz DeRose, Cray
+Rob Fowler, Renaissance Computing Institute, University of North Carolina
+Karl Fuerlinger, Ludwig-Maximilians-Universität München
+Kevin Huck, Barcelona Supercomputing Center
+Chee-Wai Lee, University of Oregon
+Allen Malony, University of Oregon
+Bart Miller, University of Wisconsin
+Bernd Mohr, Jülich Supercomputing Center
+Tipp Moseley, Google
+Phil Mucci, Samara Technologies
+Boyana Norris, Argonne National Laboratory
+Ramesh Peri, Intel
+Dan Reed, Microsoft Research
+Phillip Roth, Oak Ridge National Laboratory
+Barry Rountree, Lawrence Livermore National Laboratory
+Martin Schulz, Lawrence Livermore National Laboratory
+Sameer Shende, ParaTools
+Felix Wolf, Jülich Supercomputing Center, University of Aachen
+
+
+WEBSITE
+
+http://www.whist-workshop.org
+
+===============================================================================
