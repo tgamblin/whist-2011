@@ -81,6 +81,7 @@ Luiz DeRose, Cray
 Rob Fowler, Renaissance Computing Institute, University of North Carolina
 Karl Fuerlinger, Ludwig-Maximilians-Universität München
 Kevin Huck, Barcelona Supercomputing Center
+William Jalby, University of Versailles Saint Quentin
 Chee-Wai Lee, University of Oregon
 Allen Malony, University of Oregon
 Bart Miller, University of Wisconsin
