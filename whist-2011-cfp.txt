@@ -54,6 +54,7 @@ infrastructure, including (but not limited to):
 
 Visit http://whist-workshop.org for more information.
 
+
 SPECIAL JOURNAL ISSUE
 
 All papers from the workshop will be made available online, and selected
@@ -63,7 +64,6 @@ papers will be published in a special journal issue.  Details TBD.
 IMPORTANT DATES
 
 Full papers                  April 15, 2010, 11:59 PDT
-Reviews due                     May 2, 2010
 Notification                    May 6, 2010
 ICS Conference          May 31-June 4, 2010
 
@@ -79,12 +79,12 @@ PROGRAM COMMITTEE
 Dorian Arnold, University of New Mexico
 Luiz DeRose, Cray
 Rob Fowler, Renaissance Computing Institute, University of North Carolina
-Karl Fuerlinger, Ludwig-Maximilians-Universität München
+Karl Fuerlinger, Ludwig-Maximilians-UniversitŠt MŸnchen
 Kevin Huck, Barcelona Supercomputing Center
 Chee-Wai Lee, University of Oregon
 Allen Malony, University of Oregon
 Bart Miller, University of Wisconsin
-Bernd Mohr, Jülich Supercomputing Center
+Bernd Mohr, JŸlich Supercomputing Center
 Tipp Moseley, Google
 Phil Mucci, Samara Technologies
 Boyana Norris, Argonne National Laboratory
@@ -94,7 +94,7 @@ Phillip Roth, Oak Ridge National Laboratory
 Barry Rountree, Lawrence Livermore National Laboratory
 Martin Schulz, Lawrence Livermore National Laboratory
 Sameer Shende, ParaTools
-Felix Wolf, Jülich Supercomputing Center, University of Aachen
+Felix Wolf, JŸlich Supercomputing Center, University of Aachen
 
 
 WEBSITE
