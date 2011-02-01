@@ -8,6 +8,10 @@ body {
   color: #333;
 }
 
+img { 
+  border: 0px;
+}
+
 div#title {
   margin-bottom: 25px;
   margin-top: 20px;
