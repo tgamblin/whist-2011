@@ -47,7 +47,7 @@ infrastructure, including (but not limited to):
   * Monitoring, measurement and analysis approaches for novel parallel
     programming models
     - Tool support for multithreading, shared-memory, and hierarchical 
-      parallelism, including interaction with language ntime and operating
+      parallelism, including interaction with language runtime and operating
       systems
     - Measurement and attribution techniques for new programming paradigms
   * Scalable presentation of results
