@@ -7,7 +7,7 @@
           25th International Conference on Supercomputing (ICS 2011)
                       Tucson, Arizona, June 4, 2011
 
-                      http://www.whist-workshop.org
+                        http://whist-workshop.org
 ===============================================================================
 
 CALL FOR PAPERS
@@ -52,6 +52,7 @@ infrastructure, including (but not limited to):
     - Measurement and attribution techniques for new programming paradigms
   * Scalable presentation of results
 
+Visit http://whist-workshop.org for more information.
 
 SPECIAL JOURNAL ISSUE
 
