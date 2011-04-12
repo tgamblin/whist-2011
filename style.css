@@ -17,6 +17,14 @@ div#title {
   margin-top: 20px;
 }
 
+div#notice {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+  color: red;
+}
+
 #title h1 { 
   font-size: 24;
   margin: 3;
