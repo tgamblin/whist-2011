@@ -320,6 +320,7 @@ img.icon {
 dl.programday { 
   font-size: 10pt;
   margin-bottom: 40px;
+  width:70%;
 }
 
 dl.programday dt { 
@@ -371,12 +372,12 @@ table.schedule {
   margin: 0px;
   padding: 0px;
   border-collapse: collapse;
-  width: 98%;
+  width: 60%;
   font-size: 9pt;
 }
 
 table.schedule#legend { 
-  width:60%;
+  width:40%;
 }
 
 table.schedule#legend td { 
@@ -423,19 +424,19 @@ table.schedule td.free {
 }
 
 table.schedule td.workshop { 
-  background-color: #CCE;
+  background-color: #EEC;
 }
 
 table.schedule td.tutorial { 
-  background-color: #CEC;
-}
-
-table.schedule td.special { 
   background-color: #ECC;
 }
 
+table.schedule td.special { 
+  background-color: #CEC;
+}
+
 table.schedule td.papers { 
-  background-color: #EEC;
+  background-color: #CCE;
 }
 
 table.schedule td.social {
