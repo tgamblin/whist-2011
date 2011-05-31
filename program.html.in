@@ -1,5 +1,11 @@
 <h2>Program</h2>
 
+<a href="whist-2011-map.pdf"><img align="right" src="whist-map-preview.png" id="mappreview"/></a>
+<h3>Location</h3>
+WHIST 2011 will be held in Salon D of the <a href="http://www.loewshotels.com/en/Hotels/Tucson-Resort/Overview.aspx">Loews Ventana Canyon Resort</a>.<br>
+Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
+
+<h3>Schedule</h3>
 <p>
       <table class="schedule"> 
       <tr> 
@@ -67,10 +73,10 @@
       <dt>9:00-10:00</dt> 
       <dd> 
         <a name="keynote"></a> 
-        <!-- <img src="img.jpg" align="right">-->
+        <a href="hollingsworth.html"><img src="HollingsworthTiny.jpg" align="right"/></a>
         <h3>Keynote: Jeffrey Hollingsworth</h3> 
-        <!--<a href="bio.php">-->
-        From Paradyn to Dyninst to *API and beyond</a><!--<br><span class="chair">Chair</span>-->
+        <a href="hollingsworth.html">From Paradyn to Dyninst to *API and beyond</a>
+        <!--<br><span class="chair">Chair</span>-->
       </dd> 
 
       <dt>10:00-10:30</dt> 

@@ -593,3 +593,8 @@ table.travelform {
   padding-bottom: 15px;
   padding-top: 0px;
 }
+
+img#mappreview { 
+  border:solid black 1px;
+  margin-right: 20px;
+}

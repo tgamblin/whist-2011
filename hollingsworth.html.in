@@ -1,0 +1,36 @@
+      <div class="keynote"> 
+        <p>
+       <table><tr><td> 
+       <a href="HollingsworthWebHead.jpg"><img align="left" src="HollingsworthSmall.jpg"></a>
+      </td><td> 
+        <h2>From Paradyn to Dyninst to *API and Beyond</h2>
+        <h3><u>Jeffrey Hollingsworth</u></h3>
+        <h3>Professor and Associate Chair<br>
+            Department of Computer Science<br>
+            University of Maryland, College Park</h3>
+ 
+        <h4><i>Saturday, June 4 2011,  9:00am</i></h4> 
+      </td></tr></table> 
+ 
+
+ 
+   <h3>Biography</h3> 
+   Jeffrey K. Hollingsworth is a Professor and Associate Chair of the 
+Computer Science Department at the University of Maryland, College Park. 
+He also has an appointment in the University of Maryland Institute for 
+Advanced Computer Studies and the Electrical and Computer Engineering 
+Department. He received his Ph.D. and M.S. degrees in computer sciences from 
+the University of Wisconsin. He received a B.S. in Electrical 
+Engineering from the University of California at Berkeley.
+Dr. Hollingsworth’s research seeks to develop a unified framework to 
+understand the performance of large systems and focuses in several 
+areas. First, he developed new approach, called dynamic instrumentation, 
+to permit the efficient measurement of large parallel applications. 
+Second, he has developed an auto-tuning framework called Active Harmony 
+that can be used to tune kernels, libraries, or full applications. 
+Third, he is investigating the interactions between different layers of 
+software and hardware to understand how they influence performance.   He 
+is Editor in Chief of the journal Parallel Computing, and will be the 
+general chair of the SC12 conference.
+      </div> 
+    </div>

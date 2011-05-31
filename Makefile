@@ -1,5 +1,4 @@
-
-TARGETS = index.html committee.html submissions.html program.html
+TARGETS = index.html committee.html submissions.html program.html hollingsworth.html
 EXTRAS = style.css whist-logo.jpg
 
 all: $(TARGETS)
