@@ -97,7 +97,7 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
     <p>
       <div class="paper"> 
         <span class="title"><a href="">Parallelizing Heavyweight Debugging Tools with MPIecho</a>.</span><br> 
-        <span class="authors">Barry Rountree, Guy Cobb, Todd Gamblin, Martin Schulz and Bronis De Supinski</span> 
+        <span class="authors">Barry Rountree, Guy Cobb, Todd Gamblin, Martin Schulz and Bronis R. de Supinski</span> 
       </div> 
     <p> 
       <div class="paper"> 
@@ -129,7 +129,7 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
    <p>
       <div class="paper"> 
         <span class="title"><a href="">A Framework for Bootstrapping Extreme Scale Software Systems</a>.</span><br> 
-        <span class="authors">Joshua Goehner, Dorian Arnold, Dong Ahn, Gregory Lee, Bronis De Supinski, Matthew Legendre, Martin Schulz and Barton Miller</span> 
+        <span class="authors">Joshua Goehner, Dorian Arnold, Dong Ahn, Gregory Lee, Bronis R. de Supinski, Matthew Legendre, Martin Schulz and Barton Miller</span> 
       </div> 
 
 
@@ -141,8 +141,37 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
       <dt>3:30-4:30</dt> 
       <dd> 
         <a name="panel"></a> 
-        <h3>Panel Discussion</h3> 
-        Future Directions for Performance Tools
+        <h4>Panel Discussion</h4> 
+        <b>Topic: Future directions for performance tools</b>
+        <p>
+          Panelists:
+          <ul>
+            <li>Martin Schulz, Lawrence Livermore National Laboratory
+            <li>Dorian Arnold, University of New Mexico
+            <li>David Richards, Lawrence Livermore National Laboratory
+            <li>Nathan Tallent, Rice University
+          </ul>
+        </p><p>
+          Questions:
+          <ol>
+            <li><b>What are tools already doing well?</b><p>
+              What lessons are there to learn from existing tools, and what techniques should now be
+              reduced to practice?  What are the barriers keeping tool developers from reusing each
+              others' tools and techniques?
+            <li><b>What are current tools doing poorly, and how will tools provide insight 
+                into exascale applications?</b><p>
+                <b>Insight:</b><br>
+                Is the data provided by current performance tools relevant or understandable to developers?
+                How can we tie performance data to application models, and how can we present fewer
+                measurements and more insight?
+                <p>
+                <b>Scalability:</b><br>
+                With millions/billions of hierarchical tasks, what will have to change?
+                We already have problems with hundreds of thousands of tasks.
+                What can we learn from the applications, and do exascale tools need co-design too?  
+              
+          </ol>
+        </p>
       </dd> 
     
       </dd>
