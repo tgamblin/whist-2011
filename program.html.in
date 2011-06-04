@@ -76,7 +76,7 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
         <a href="hollingsworth.html"><img src="HollingsworthTiny.jpg" align="right"/></a>
         <h3>Keynote: Jeffrey Hollingsworth</h3> 
         <a href="hollingsworth.html">From Paradyn to Dyninst to *API and beyond</a>
-        <!--<br><span class="chair">Chair</span>-->
+        <br><span class="chair">Chair: Nathan Tallent</span>
       </dd> 
 
       <dt>10:00-10:30</dt> 
@@ -87,7 +87,7 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
       <dt>10:30-12:00</dt> 
       <dd> 
       <a name="morning"></a> 
-      <!-- <h5><span class="chair">Chair</span></h5> -->
+      <h5><span class="chair">Chair: Dorian Arnold</span></h5>
       <h4>Morning Paper Session</h4> 
     <p> 
       <div class="paper"> 
@@ -114,7 +114,7 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
    <dt>1:30-3:00</dt>
    <dd>
       <a name="afternoon"></a> 
-      <!-- <h5><span class="chair">Chair</span></h5> -->
+      <h5><span class="chair">Chair: Sriram Krishnamoorthy</span></h5>
       <h4>Afternoon Paper Session</h4> 
     <p>
       <div class="paper"> 
@@ -141,6 +141,7 @@ Please see <a href="whist-2011-map.pdf">this map</a> for the exact location.
       <dt>3:30-4:30</dt> 
       <dd> 
         <a name="panel"></a> 
+        <h5><span class="chair">Chair: Todd Gamblin</span></h5>
         <h4>Panel Discussion</h4> 
         <b>Topic: Future directions for performance tools</b>
         <p>
